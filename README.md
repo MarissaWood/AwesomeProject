@@ -67,6 +67,6 @@ brew watchman
 ```
 npm start
 ```
-5. open the expo app on your phone
+5. open the Expo app on your phone
 
-6. 
+6. Press s to send link to your phone to open the app
