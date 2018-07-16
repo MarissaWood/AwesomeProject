@@ -68,3 +68,5 @@ brew watchman
 npm start
 ```
 5. open the expo app on your phone
+
+6. 
