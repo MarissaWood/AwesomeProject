@@ -70,3 +70,5 @@ npm start
 5. open the Expo app on your phone
 
 6. Press s to send link to your phone to open the app
+
+If you want to deply this app on the appstore see [this](https://codeburst.io/how-to-deploy-a-create-react-native-app-to-the-appstore-229a8fa36fb1) article.  
